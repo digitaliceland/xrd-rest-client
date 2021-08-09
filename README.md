@@ -6,7 +6,8 @@ A REST test client to test X-Road services
 You can download compiled binaries for your architecture:
 
 * [Linux x64](https://github.com/digitaliceland/xrd-rest-client/raw/master/release/linux/rest-client)
-* [MacLOS x64](https://github.com/digitaliceland/xrd-rest-client/raw/master/release/macos/rest-client)
+* [MacOS x64](https://github.com/digitaliceland/xrd-rest-client/raw/master/release/macos/rest-client)
+* [MacOS M1](https://github.com/digitaliceland/xrd-rest-client/raw/master/release/macosm1/rest-client)
 * [Windows x64](https://github.com/digitaliceland/xrd-rest-client/raw/master/release/windows/rest-client.exe)
 
 ## Parameter Options
